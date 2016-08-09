@@ -1,0 +1,1 @@
+const _ = require('lodash');global._ = _;global.ISO_8601 = 'YYYY-MM-DDTHH:mm:ssZZ';global.DATE_TIME = 'YYYY-MM-DD HH:mm:ss';global.STD_DATE = 'YYYY-MM-DD';global.GB_DATE = 'DD/MM/YYYY';global.US_DATE = 'MM/DD/YYYY';global.US_TIME = 'h:mm A';global.HMS_TIME = 'HH:mm:ss';global.HMA_TIME = 'HH:mm A';
