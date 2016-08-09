@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-restful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "feng",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "formidable": "^1.0.17",
+    "lodash": "^4.3.0",
+    "moment": "^2.13.0",
+    "mongoose": "^4.5.2",
+    "path": "^0.12.7"
+  }
+}
